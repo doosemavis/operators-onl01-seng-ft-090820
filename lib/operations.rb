@@ -1,5 +1,8 @@
-def unsafe?(speed)
+speed = 50
 
+def unsafe?(speed)
+  if speed == 
+  
 end
 
 
